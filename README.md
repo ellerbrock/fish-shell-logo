@@ -1,20 +1,16 @@
 # Fish Shell Logo [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-few ideas of a logo redesign for the fish shell project  
+few ideas of a logo redesign for the [fish shell](https://github.com/fish-shell/fish-shell) project
 
-![fish shell](https://github.frapsoft.com/fish/v1/fish.png)  
+![fish shell](https://github.frapsoft.com/fish/v1/fish.png)
 
-![fish shell](https://github.frapsoft.com/fish/v2/fish.png)  
+![fish shell](https://github.frapsoft.com/fish/v2/fish.png)
 
-![fish shell](https://github.frapsoft.com/fish/v3/fish.png)  
+![fish shell](https://github.frapsoft.com/fish/v4/fish.png)
 
-![fish shell](https://github.frapsoft.com/fish/v4/fish.png)  
+![fish shell](https://github.frapsoft.com/fish/v5/fish.png)
 
-![fish shell](https://github.frapsoft.com/fish/v5/fish.png)  
-
-![fish shell](https://github.frapsoft.com/fish/v6/fish.png)  
-
-
+![fish shell](https://github.frapsoft.com/fish/v6/fish.png)
 
 ### Contact / Social Media
 
